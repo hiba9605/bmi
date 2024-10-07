@@ -1,0 +1,61 @@
+body{
+    background-image: url("https://png.pngtree.com/background/20230516/original/pngtree-large-room-full-of-equipment-in-a-gym-picture-image_2611111.jpg");
+    height: 100;
+    /* width: 100%; */
+    background-size: cover;
+}
+#container{
+    height: 500px;
+    width: 500px;
+    /* backdrop-filter: blur(10px); */
+    /* background: rgb(255,255,255,0.2); */
+    padding: 1rem;
+    border-radius: 12px;
+    border: 2px solid #fff;
+    padding-left: 30px;
+    margin-left: 800px;
+    margin-top: 300px;
+    background-color: rgba(0,0,0,0.5);
+    box-shadow: 2px 2px 20px #919191;
+}
+#head1{
+    text-align: center;
+    color: white;
+}
+#labone{
+    color: white;
+    font-size: 20px;
+    margin-left: 80px;
+    /* margin-top: 20px; */
+}
+#labtwo{
+    color: white;
+    font-size: 20px;
+    margin-left: 80px;
+}
+.userinput{
+    padding: 10px;
+    margin-left: -20px;
+    margin-top: 30px;
+}
+#labthree{
+    color: white;
+}
+#labfour{
+    color: white;
+}
+button{
+    color: white;
+    /* background-color: rgb(91, 85, 85); */
+    background-color: rgb(44, 39, 39);
+    margin-left: 50px;
+    cursor: pointer;
+    font-size: 20px;
+}
+#result{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: bolder;
+}
